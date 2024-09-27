@@ -3,7 +3,7 @@
 client_id = "5ae5bf2d6b2c457066b52c0a1b7d5e3e"
 name = "consolidated-franchise-app"
 handle = "consolidated-franchise-app-5"
-application_url = "https://lounge-whale-existing-craps.trycloudflare.com"
+application_url = "https://baths-hampton-dangerous-exchanges.trycloudflare.com"
 embedded = true
 
 [build]
@@ -17,9 +17,9 @@ scopes = "write_products"
 
 [auth]
 redirect_urls = [
-  "https://lounge-whale-existing-craps.trycloudflare.com/auth/callback",
-  "https://lounge-whale-existing-craps.trycloudflare.com/auth/shopify/callback",
-  "https://lounge-whale-existing-craps.trycloudflare.com/api/auth/callback"
+  "https://baths-hampton-dangerous-exchanges.trycloudflare.com/auth/callback",
+  "https://baths-hampton-dangerous-exchanges.trycloudflare.com/auth/shopify/callback",
+  "https://baths-hampton-dangerous-exchanges.trycloudflare.com/api/auth/callback"
 ]
 
 [webhooks]
